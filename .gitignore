@@ -2,6 +2,8 @@ dat/*
 notes/*
 *.Rproj
 
+*.pdf
+
 # History files
 .Rhistory
 .Rapp.history
